@@ -1,10 +1,5 @@
-\# Gearforge default resource pack
+# Gearforge default resource pack
 
+## Included projects
 
-
-\## Included projects
-
-
-
-\[Hero's Journey](https://github.com/maybejake/Heros-Journey) datapack
-
+[Hero's Journey](https://github.com/maybejake/Heros-Journey) datapack
