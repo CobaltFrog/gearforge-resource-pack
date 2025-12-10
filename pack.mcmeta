@@ -1,7 +1,7 @@
 {
   "pack": {
-    "pack_format": 15,
-    "supported_formats": [4,5775],
-    "description": "Gearforge default pack"
+    "pack_format": 34,
+    "supported_formats": [34,5775],
+    "description": "§4Gear§8forge§r §fdefault pack"
   }
 }
