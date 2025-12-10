@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [4,5775],
+    "description": "Gearforge default pack"
+  }
+}
